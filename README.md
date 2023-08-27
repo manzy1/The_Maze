@@ -90,4 +90,4 @@ https://github.com/elanthis/upng
 
 ## Author
 
-Emmanuel Mziya <mziyaemmanuel@gmail.com>
+Ian Chirwa <chirwaian7@gmail.com>
